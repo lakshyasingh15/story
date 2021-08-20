@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyImages">
+        <item>https://images.everydayhealth.com/images/coronavirus/can-aerobic-exercises-shield-me-from-covid-19-complications-722x406.jpg</item>
+        <item>https://findvectorlogo.com/wp-content/uploads/2019/03/amity-university-vector-logo.png</item>
+        <item>https://www.brunel.ac.uk/news-and-events/news/images/immunity-big.jpg</item>
+        <item>https://picsum.photos/id/1015/367/267</item>
+        <item>https://picsum.photos/id/1024/1920/1280</item>
+        <item>https://picsum.photos/id/1025/367/267</item>
+        <item>https://picsum.photos/id/1015/367/267</item>
+        <item>https://picsum.photos/id/1024/1920/1280</item>
+        <item>https://picsum.photos/id/1025/367/267</item>
+        <item>https://picsum.photos/id/1015/367/267</item>
+        <item>https://picsum.photos/id/1024/1920/1280</item>
+        <item>https://picsum.photos/id/1025/367/267</item>
+    </string-array>
+</resources>
